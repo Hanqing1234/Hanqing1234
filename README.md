@@ -1,4 +1,7 @@
-### Hi there 👋
+## 👋 Hi there, I'm Hanqing.
+* 😄 I’m currently learning front-end development and back-end development.
+* :smiley: I'm familiar with MERN stack and have built some websites.
+* ⚡ I've always been adept at picking up new skills and staying current.  
 
 <!--
 **Hanqing1234/Hanqing1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
