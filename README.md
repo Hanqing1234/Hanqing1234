@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Hanqing.
-* 😄 I’m currently learning front-end development and back-end development.
+* 😄 I’m a front-end developer and full-stack developer.
 * :smiley: I'm familiar with MERN stack and have built some websites.
 * ⚡ I've always been adept at picking up new skills and staying current.  
 
